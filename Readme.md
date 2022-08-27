@@ -1,3 +1,3 @@
 hello everyone
 
-how is it going ?
+How is it going ?
